@@ -1,9 +1,10 @@
-### Olá, mundo! Eu sou Luiz Esquivel, co-fundador da Paralaxe.👋
+### Olá, mundo! Eu sou Luiz Esquivel, bacharelando em Ciência&Tecnologia.👋
 
-- 🌱 Atuo e me desenvolvo nas tecnologias HTML, CSS, JavaScript e MySQL.
+- 🌱 Estudante na áraea de WEB Desenvolvimento.
 - 👯 Atuo como WEB Desenvolvedor no Impacta Jovem Brasil.
 - 😄 Pronomes: ele/dele.
 - ⚡ Hobbie: programar, ler, projetar e ensinar.
+- ✍  Objetivo profissional: estágio na área de tecnologia.
 
 <div align="center">
   <a href="https://github.com/luizesquivel05/luizesquivel05/">
