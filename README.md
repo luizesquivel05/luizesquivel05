@@ -1,10 +1,13 @@
-### Olá, mundo! Eu sou Luiz Esquivel, bacharelando em Ciência&Tecnologia.👋
+### Olá, mundo! Eu sou Luiz Esquivel.👋
 
-- 🌱 Estudante na áraea de WEB Desenvolvimento.
-- 👯 Atuo como WEB Desenvolvedor no Impacta Jovem Brasil.
+- 🌱 Estudante de WEB desenvolvimento (foco no BackEnd) e de técnicas para análise de dados (incluindo Bussiness Inteligence, ETL, Big data e afins).
+- 👯 Atuo como WEB Desenvolvedor no Impacta Jovem Brasil (uma OSFL que atua na democratização da educação) e estagiário de TI na Inove Telecom (um call center especializado em revender produtos Oi Fibra).
 - 😄 Pronomes: ele/dele.
-- ⚡ Hobbie: programar, ler, projetar e ensinar.
-- ✍  Objetivo profissional: estágio na área de tecnologia.
+- ⚡ Hobbie: programar, ler, projetar e escrever.
+- ✍  Objetivo profissional: Analista de dados Jr.
+- 🎍 Principais conhecimentos: Avançado em Pacote Office (incluindo Excel, Word e PowerPoint), intermediário em ferramentas modernas de BI (incluindo Power BI), intermediário em ferramentas de automatizar processos administrativos (incluindo VBA, data warehouse, OLAP e Macros da Microsoft), intermediário em conhecimento em Banco de dados (especialmente SQL e SQL Server), intermediário em conhecimento em arquiteturas da internet (especialmente HTTP), conhecimentos intermediários em desenvolvimento WEB (HTML5, CSS3, JavaScript e ReactJS).
+- 🏆 Principais experiências: WEB developer no ImpactaJovemBrasil (atuando na criação, expansão e otimização do site institucional), estagiário de TI na Inove Telecom (atuando como co-responsável pelo gerenciamento de dados da empresa, com foco especial em processos de ETL e data warehouse), WEB developer no Projeto GoBig (atuando na criação, expansão e otimização do site institucional), trainee na EletroJr (aprendi sobre como funciona o mercado e ferramentas do Office), trainee na InfoJr (aprendi sobre o Mercado de Trabalho em TI, metodologias ágeis e diversidade nos processos empresariais).
+- 😫 Ocupação do tempo: divido meu tempo, atualmente, entre: estudar para o ENEM (desejo passar em Ciências da Computação na UFES) e as atuações no Impacta e na Inove.
 
 <div align="center">
   <a href="https://github.com/luizesquivel05/luizesquivel05/">
