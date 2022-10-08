@@ -1,7 +1,7 @@
 ### Olá, mundo! Eu sou Luiz Esquivel.👋
 
 - 🌱 Estudante de WEB desenvolvimento (foco no BackEnd) e de técnicas para análise de dados (incluindo Bussiness Inteligence, ETL, Big data e afins).
-- 👯 Atuo como WEB Desenvolvedor no Impacta Jovem Brasil (uma OSFL que atua na democratização da educação) e estagiário de TI na Inove Telecom (um call center especializado em revender produtos Oi Fibra).
+- 👯 Atuo como WEB Desenvolvedor no Impacta Jovem Brasil (uma OSFL que atua na democratização da educação) e analista de TI Jr na Inove Telecom (um call center especializado em revender produtos Oi Fibra).
 - 😄 Pronomes: ele/dele.
 - ⚡ Hobbie: programar, ler, projetar e escrever.
 - ✍  Objetivo profissional: Analista de dados Jr.
