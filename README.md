@@ -1,4 +1,4 @@
-### Olá, mundo! Eu sou Luiz Esquivel, 19 anos, Analista de Dados.👋
+### Olá, mundo! Eu sou Luiz Esquivel, 20 anos, Analista de Dados.👋
 
 - 🌱 Estudante de técnicas para análise de dados (incluindo Bussiness Inteligence, ETL, Big data, análises clássicas [descritiva, prescritiva e preditiva] e temas afins).
 - 👯 Atuo como tech lead no Impacta Jovem Brasil (uma OSFL que atua na democratização da educação) e analista de TI Jr na Inove Telecom (um call center especializado em revender produtos Oi Fibra).
