@@ -1,10 +1,10 @@
-### Olá, mundo! Eu sou Luiz Esquivel, 20 anos, Analista de Dados.👋
+### Olá, mundo! Eu sou Luiz Esquivel, 20 anos, Analista de Desenvolvimento de Sistemas.👋
 
-- 🌱 Estudante de técnicas para análise de dados (incluindo Bussiness Inteligence, ETL, Big data, análises clássicas [descritiva, prescritiva e preditiva] e temas afins).
-- 👯 Atuo como tech lead no Impacta Jovem Brasil (uma OSFL que atua na democratização da educação) e analista de TI Jr na Inove Telecom (um call center especializado em revender produtos Oi Fibra).
+- 🌱 Estudante de técnicas para análise de dados (incluindo Bussiness Inteligence, ETL, Big data, análises clássicas [descritiva, prescritiva e preditiva] e temas afins), processos de produção de sistemas, processos de testes de sistemas e, temas afins.
+- 👯 Atuo como tech lead no Impacta Jovem Brasil (uma OSFL que atua na democratização da educação) e analista de Desenvolvimento de Sistemas na Inove Telecom (um dos maiores call-centeres do Sudeste na área de
 - 😄 Pronomes: ele/dele.
 - ⚡ Hobbie: programar, ler, projetar e escrever.
-- ✍  Objetivo profissional: Analista de dados.
+- ✍  Objetivo profissional: Analista de Desenvolvimento de Sistemas sênior.
 - 🎍 Principais conhecimentos: Pacote Office (incluindo Excel, Word e PowerPoint), intermediário em ferramentas modernas de BI (incluindo Power BI), ferramentas de automatizar processos administrativos (incluindo VBA, data warehouse, OLAP e Macros da Microsoft),conhecimento em Banco de dados (especialmente SQL e SQL Server), conhecimento em arquiteturas da internet (especialmente HTTP), conhecimentos em desenvolvimento WEB (HTML5, CSS3, JavaScript e ReactJS).
 - 🏆 Principais experiências: WEB Deveper no ImpactaJovemBrasil (atuando na criação, expansão e otimização do site institucional, além de escolhas e instrução de escolhas e ferramentas digitais), Estagiário de TI na Inove Telecom (atuando como co-responsável pelo gerenciamento de dados da empresa, com foco especial em processos de ETL e data warehouse), WEB developer no Projeto GoBig (atuando na criação, expansão e otimização do site institucional), trainee na InfoJr (aprendi sobre o Mercado de Trabalho em TI, metodologias ágeis e diversidade nos processos empresariais, além de temas associado a gerências administrativas).
 - 😫 Ocupação do tempo: trabalhos no ImpacaJovem e InoveTelecom, estudos de Python e da faculdade.
