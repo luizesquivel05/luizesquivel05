@@ -1,7 +1,7 @@
 ### Olá, mundo! Eu sou Luiz Esquivel, 20 anos, Analista de Desenvolvimento de Sistemas.👋
 
 - 🌱 Estudante de técnicas para análise de dados (incluindo Bussiness Inteligence, ETL, Big data, análises clássicas [descritiva, prescritiva e preditiva] e temas afins), processos de produção de sistemas, processos de testes de sistemas e, temas afins.
-- 👯 Atuo como tech lead no Impacta Jovem Brasil (uma OSFL que atua na democratização da educação) e analista de Desenvolvimento de Sistemas na Inove Telecom (um dos maiores call-centeres do Sudeste na área de
+- 👯 Atuo como tech lead no Impacta Jovem Brasil (uma OSFL que atua na democratização da educação) e analista de Desenvolvimento de Sistemas na Inove Telecom (um dos maiores call-centeres do Sudeste na área de telemarketing).
 - 😄 Pronomes: ele/dele.
 - ⚡ Hobbie: programar, ler, projetar e escrever.
 - ✍  Objetivo profissional: Analista de Desenvolvimento de Sistemas sênior.
