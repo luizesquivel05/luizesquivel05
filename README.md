@@ -1,13 +1,13 @@
 ### Olá, mundo! Eu sou Luiz Esquivel, 20 anos, Analista de Desenvolvimento de Sistemas.👋
 
-- 🌱 Estudante de técnicas para análise de dados (incluindo Bussiness Inteligence, ETL, Big data, análises clássicas [descritiva, prescritiva e preditiva] e temas afins), processos de produção de sistemas, processos de testes de sistemas e, temas afins.
-- 👯 Atuo como tech lead no Impacta Jovem Brasil (uma OSFL que atua na democratização da educação) e analista de Desenvolvimento de Sistemas na Inove Telecom (um dos maiores call-centeres do Sudeste na área de telemarketing).
+- 🌱 Estudante de técnicas para análise de dados, processos de produção de sistemas, processos de testes de sistemas e temas afins.
+- 👯 Atuo como tech lead no Impacta Jovem Brasil e analista de Desenvolvimento de Sistemas na Inove Telecom.
 - 😄 Pronomes: ele/dele.
-- ⚡ Hobbie: programar, ler, projetar e escrever.
-- ✍  Objetivo profissional: Analista de Desenvolvimento de Sistemas sênior.
-- 🎍 Principais conhecimentos: Pacote Office (incluindo Excel, Word e PowerPoint), intermediário em ferramentas modernas de BI (incluindo Power BI), ferramentas de automatizar processos administrativos (incluindo VBA, data warehouse, OLAP e Macros da Microsoft),conhecimento em Banco de dados (especialmente SQL e SQL Server), conhecimento em arquiteturas da internet (especialmente HTTP), conhecimentos em desenvolvimento WEB (HTML5, CSS3, JavaScript e ReactJS).
-- 🏆 Principais experiências: WEB Deveper no ImpactaJovemBrasil (atuando na criação, expansão e otimização do site institucional, além de escolhas e instrução de escolhas e ferramentas digitais), Estagiário de TI na Inove Telecom (atuando como co-responsável pelo gerenciamento de dados da empresa, com foco especial em processos de ETL e data warehouse), WEB developer no Projeto GoBig (atuando na criação, expansão e otimização do site institucional), trainee na InfoJr (aprendi sobre o Mercado de Trabalho em TI, metodologias ágeis e diversidade nos processos empresariais, além de temas associado a gerências administrativas).
-- 😫 Ocupação do tempo: trabalhos no ImpacaJovem e InoveTelecom, estudos de Python e da faculdade.
+- ⚡ Hobbies: programar, ler, projetar e escrever.
+- ✍ Objetivo profissional: Analista de Desenvolvimento de Sistemas sênior.
+- 🎍 Principais conhecimentos: Pacote Office, ferramentas modernas de BI (incluindo Power BI), ferramentas de automatizar processos administrativos (incluindo VBA, data warehouse, OLAP e Macros da Microsoft), Banco de dados (especialmente SQL e SQL Server), arquiteturas da internet (especialmente HTTP), desenvolvimento WEB (HTML5, CSS3, JavaScript e ReactJS).
+- 🏆 Principais experiências: WEB Developer no Impacta Jovem Brasil, Estagiário de TI na Inove Telecom, WEB Developer no Projeto GoBig, trainee na InfoJr.
+- 😫 Ocupação do tempo: trabalhos no Impacta Jovem e Inove Telecom, estudos de Python e faculdade.
 
 <div align="center">
   <a href="https://github.com/luizesquivel05/luizesquivel05/">
@@ -20,7 +20,7 @@
   <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <div> 
-    ## Coneça minhas redes:
+    ## Conheça minhas redes:
   <a href="https://instagram.com/luizpontes.esquivel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/caimasvoltei" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:luizpontes.esquivel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
