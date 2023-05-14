@@ -6,7 +6,7 @@
 - ⚡ Hobbies: programar, ler, projetar e escrever.
 - ✍ Objetivo profissional: Analista de Desenvolvimento de Sistemas sênior.
 - 🎍 Principais conhecimentos: Pacote Office, ferramentas modernas de BI (incluindo Power BI), ferramentas de automatizar processos administrativos (incluindo VBA, data warehouse, OLAP e Macros da Microsoft), Banco de dados (especialmente SQL e SQL Server), arquiteturas da internet (especialmente HTTP), desenvolvimento WEB (HTML5, CSS3, JavaScript e ReactJS).
-- 🏆 Principais experiências: WEB Developer no Impacta Jovem Brasil, Estagiário de TI na Inove Telecom, WEB Developer no Projeto GoBig, trainee na InfoJr.
+- 🏆 Principais experiências: WEB Developer no Impacta Jovem Brasil, Estagiário de TI na Inove Telecom, Analista de Desenvolvimento de Sistemas na Inove Telecom, WEB Developer no Projeto GoBig, trainee na InfoJr.
 - 😫 Ocupação do tempo: trabalhos no Impacta Jovem e Inove Telecom, estudos de Python e faculdade.
 
 <div align="center">
