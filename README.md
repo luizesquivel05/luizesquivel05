@@ -1,16 +1,15 @@
 ![Banner](luiz.png)
 
 ### Olá, mundo! Eu sou Luiz Esquivel, Analista de Desenvolvimento de Sistemas com 20 anos de idade. 👋
-🌱 Estou constantemente estudando técnicas de análise de dados, processos de produção de sistemas, processos de testes de sistemas e temas relacionados.
-👯 Atualmente atuo como Tech Lead no Impacta Jovem Brasil e como Analista de Desenvolvimento de Sistemas na Inove Telecom.
-😄 Pronomes: ele/dele.
-⚡ Hobbies: programar, ler, projetar e escrever.
-✍ Objetivo profissional: Tornar-me um Analista de Desenvolvimento de Sistemas sênior.
-🎍 Principais conhecimentos: Tenho habilidades em Pacote Office, ferramentas modernas de BI (incluindo Power BI), ferramentas de automação de processos administrativos (incluindo VBA, data warehouse, OLAP e Macros da Microsoft), Banco de dados (especialmente SQL e SQL Server), arquiteturas da internet (especialmente HTTP) e desenvolvimento WEB (HTML5, CSS3, JavaScript e ReactJS).
+🌱 Estou constantemente estudando técnicas de análise de dados, processos de produção de sistemas, processos de testes de sistemas e temas relacionados. <br>
+👯 Atualmente atuo como Analista de Desenvolvimento de Sistemas na Inove Telecom. <br> 
+😄 Pronomes: ele/dele. <br>
+⚡ Hobbies: programar, ler, projetar e escrever. <br>
+✍ Objetivo profissional: Tornar-me um Analista de Desenvolvimento de Sistemas sênior e contribuir para um sistema mais eficiente e seguro na empresa em que atuo. <br>
+🎍 Principais conhecimentos: Tenho habilidades avançadas em Pacote Office e ferramentas modernas de BI (incluindo Power BI), conheço ferramentas de automação de processos (incluindo Linguagem M, data warehouse, OLAP e Macros da Microsoft), familiarizado com Banco de dados (especialmente SQL e SQL Server); arquiteturas da internet (HTTP e Cliente-Servidor); desenvolvimento WEB (HTML5, CSS3, JavaScript, NodeJS e PHP). <br>
 🏆 Principais experiências: Trabalhei como WEB Developer no Impacta Jovem Brasil, Estagiário de TI na Inove Telecom, Analista de Desenvolvimento de Sistemas na Inove Telecom, WEB Developer no Projeto GoBig e como trainee na InfoJr.
-😫 Atualmente estou ocupado com minhas responsabilidades no Impacta Jovem e Inove Telecom, meus estudos de Python e minha faculdade.
-## Projetos Destacados
-
+😫 Atualmente estou ocupado com minhas responsabilidades na Inove Telecom e meus estudos de aprimoramento profissional.
+## Projetos Destacados:
 - [Esquizando](link_para_o_projeto1): Desenvolvido com ferramentas WEB, é o principal site que eu criei e mantenho com carinho.
 - [Faculdade 05](link_para_o_projeto2): Desenvolvido com ferramentas WEB, é um site onde coloco em prática meus conhecimentos em Back-End.
 - [Sistema de Notas](link_para_o_projeto3): Desenvolvido por Python, é um CLI que apresenta cálculos de notas para professores de diversas instituições.
