@@ -10,10 +10,10 @@
 🏆 Principais experiências: Trabalhei como WEB Developer no Impacta Jovem Brasil, Estagiário de TI na Inove Telecom, Analista de Desenvolvimento de Sistemas na Inove Telecom, WEB Developer no Projeto GoBig e como trainee na InfoJr.
 😫 Atualmente estou ocupado com minhas responsabilidades na Inove Telecom e meus estudos de aprimoramento profissional.
 ## Projetos Destacados:
-- [Esquizando](link_para_o_projeto1): Desenvolvido com ferramentas WEB, é o principal site que eu criei e mantenho com carinho.
-- [Faculdade 05](link_para_o_projeto2): Desenvolvido com ferramentas WEB, é um site onde coloco em prática meus conhecimentos em Back-End.
-- [Sistema de Notas](link_para_o_projeto3): Desenvolvido por Python, é um CLI que apresenta cálculos de notas para professores de diversas instituições.
-- [Biblioteca LEsquivel05](link_para_o_projeto3): Desenvolvido por Python, é um Aplicativo de Sistemas com Interface Gráfica que contempla uso de banco de dados para armazenar os livros que estou lendo.
+- [Esquizando](https://github.com/luizesquivel05/esquizando.git): Desenvolvido com ferramentas WEB, é o principal site que eu criei e mantenho com carinho.
+- [Faculdade 05](https://github.com/luizesquivel05/faculdade05): Desenvolvido com ferramentas WEB, é um site onde coloco em prática meus conhecimentos em Back-End.
+- [Sistema de Notas](https://github.com/luizesquivel05/sistemadenotas): Desenvolvido por Python, é um CLI que apresenta cálculos de notas para professores de diversas instituições.
+- [Biblioteca LEsquivel05](https://github.com/luizesquivel05/bibliotecaLEsquivel05): Desenvolvido por Python, é um Aplicativo de Sistemas com Interface Gráfica que contempla uso de banco de dados para armazenar os livros que estou lendo.
 
 <div align="center">
   <a href="https://github.com/luizesquivel05/luizesquivel05/">
