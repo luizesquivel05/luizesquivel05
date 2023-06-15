@@ -38,7 +38,7 @@
 
 ---------------------------------------  ENGLISH VERSION -----------------------------------------------
 
-![Banner](luiz.png)
+![Banner](bannerEN.png)
 
 ### Hello, world! I'm Luiz Esquivel, a 20-year-old Systems Development Analyst. 👋
 🌱 I'm constantly studying data analysis techniques, system development processes, system testing processes, and related topics. <br>
