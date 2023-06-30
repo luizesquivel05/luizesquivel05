@@ -9,6 +9,10 @@
 🎍 Principais conhecimentos: Tenho habilidades avançadas em Pacote Office e ferramentas modernas de BI (incluindo Power BI), conheço ferramentas de automação de processos (incluindo Linguagem M, data warehouse, OLAP e Macros da Microsoft), familiarizado com Banco de dados (especialmente SQL e SQL Server); arquiteturas da internet (HTTP e Cliente-Servidor); desenvolvimento WEB (HTML5, CSS3, JavaScript, NodeJS e PHP). <br>
 🏆 Principais experiências: Trabalhei como WEB Developer no Impacta Jovem Brasil, Estagiário de TI na Inove Telecom, Analista de Desenvolvimento de Sistemas na Inove Telecom, WEB Developer no Projeto GoBig e como trainee na InfoJr.
 😫 Atualmente estou ocupado com minhas responsabilidades na Inove Telecom e meus estudos de aprimoramento profissional.
+
+## MEU PORTIFOLIO:
+- [LUIZ ESQUIVEL](https://luizesquivel05.github.io/portfolioLUIZESQUIVEL/).
+
 ## Projetos Destacados:
 - [Esquizando](https://github.com/luizesquivel05/esquizando.git): Desenvolvido com ferramentas WEB, é o principal site que eu criei e mantenho com carinho.
 - [Faculdade 05](https://github.com/luizesquivel05/faculdade05): Desenvolvido com ferramentas WEB, é um site onde coloco em prática meus conhecimentos em Back-End.
@@ -49,6 +53,10 @@
 🎍 Key skills: I have advanced skills in the Microsoft Office Suite and modern BI tools (including Power BI). I am familiar with process automation tools (including Microsoft's M Language, data warehouses, OLAP, and Macros), knowledgeable in databases (especially SQL and SQL Server), familiar with internet architectures (HTTP and Client-Server), and experienced in web development (HTML5, CSS3, JavaScript, NodeJS, and PHP). <br>
 🏆 Key experiences: I have worked as a WEB Developer at Impacta Jovem Brasil, IT Intern at Inove Telecom, Systems Development Analyst at Inove Telecom, WEB Developer at Projeto GoBig, and as a trainee at InfoJr.
 😫 Currently, I am busy with my responsibilities at Inove Telecom and my professional development studies.
+
+
+## MY PORTFOLIO:
+- [LUIZ ESQUIVEL](https://luizesquivel05.github.io/portfolioLUIZESQUIVEL/).
 
 ## Highlighted Projects:
 - [Esquizando](https://github.com/luizesquivel05/esquizando.git): Developed using web development tools, it is the main website that I created and maintain with care.
