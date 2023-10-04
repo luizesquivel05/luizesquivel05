@@ -1,12 +1,12 @@
 ![Banner](luiz.png)
 
-### Olá, mundo! Eu sou Luiz Esquivel, Analista de Desenvolvimento de Sistemas com 20 anos de idade e estudante UFES - Administração.  👋
+### Olá, mundo! Eu sou Luiz Esquivel, Analista RPA com 20 anos de idade e estudante UFES - Administração.  👋
 🌱 Estou constantemente estudando técnicas de análise de dados, processos de produção de sistemas, processos de testes de sistemas e temas relacionados. <br>
-👯 Atualmente atuo como Analista de Desenvolvimento de Sistemas na Inove Telecom. <br> 
+👯 Atualmente atuo como Analista RPA na Inove Telecom. <br> 
 😄 Pronomes: ele/dele. <br>
 ⚡ Hobbies: programar, ler, projetar e escrever. <br>
-✍ Objetivo profissional: Tornar-me um Analista de Desenvolvimento de Sistemas sênior e contribuir para um sistema mais eficiente e seguro na empresa em que atuo. <br>
-🎍 Principais conhecimentos: Tenho habilidades avançadas em Pacote Office e ferramentas modernas de BI (incluindo Power BI), conheço ferramentas de automação de processos (incluindo Linguagem M, data warehouse, OLAP e Macros da Microsoft), familiarizado com Banco de dados (especialmente SQL e SQL Server); arquiteturas da internet (HTTP e Cliente-Servidor); desenvolvimento WEB (HTML5, CSS3, JavaScript, NodeJS e PHP). <br>
+✍ Objetivo profissional: Analista Analista RPA e contribuir para um sistema mais eficiente e seguro na empresa em que atuo. <br>
+🎍 Principais conhecimentos: Tenho habilidades avançadas em Pacote Office e ferramentas modernas de BI (incluindo Power BI), conheço ferramentas de automação de processos (incluindo Linguagem M, data warehouse, OLAP e Macros da Microsoft), familiarizado com Banco de dados (especialmente SQL e SQL Server), proficiente em etapas e ferramentas de RPA, arquiteturas da internet (HTTP e Cliente-Servidor); desenvolvimento WEB (HTML5, CSS3, JavaScript, NodeJS e PHP). <br>
 🏆 Principais experiências: Trabalhei como WEB Developer no Impacta Jovem Brasil, Estagiário de TI na Inove Telecom, Analista de Desenvolvimento de Sistemas na Inove Telecom, WEB Developer no Projeto GoBig e como trainee na InfoJr.
 😫 Atualmente estou ocupado com minhas responsabilidades na Inove Telecom e meus estudos na UFES - Administração.
 
