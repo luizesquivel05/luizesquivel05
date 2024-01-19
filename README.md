@@ -1,6 +1,6 @@
 ![Banner](luiz.png)
 
-### Olá, mundo! Eu sou Luiz Esquivel, Desenvolvedor RPA com 20 anos de idade, 5 anos de experiência e estudante UFES - Administração.  👋
+### Olá, mundo! Eu sou Luiz Esquivel, Desenvolvedor RPA com 21 anos de idade, 5 anos de experiência e estudante UFES - Administração.  👋
 🌱 Estou constantemente estudando técnicas de análise de dados, processos empresarias e como automatizá-los mantendo eficiência organizacional. <br>
 👯 Atualmente atuo como Desenvolvedor RPA na Inove Telecom. <br> 
 😄 Pronomes: ele/dele. <br>
@@ -44,7 +44,7 @@
 
 ![Banner](bannerEN.png)
 
-### Hello, world! I'm Luiz Esquivel, a 20-year-old RPA Developer with 5 years of experience, currently studying Administration at UFES. 👋
+### Hello, world! I'm Luiz Esquivel, a 21 year old RPA Developer with 5 years of experience, currently studying Administration at UFES. 👋
 🌱 I am constantly studying data analysis techniques, business processes, and how to automate them while maintaining organizational efficiency. <br>
 👯 I am currently working as an RPA Developer at Inove Telecom. <br>
 😄 Pronouns: he/him. <br>
