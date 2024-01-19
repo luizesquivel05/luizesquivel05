@@ -1,13 +1,13 @@
 ![Banner](luiz.png)
 
-### Olá, mundo! Eu sou Luiz Esquivel, Analista RPA com 20 anos de idade e estudante UFES - Administração.  👋
-🌱 Estou constantemente estudando técnicas de análise de dados, processos de produção de sistemas, processos de testes de sistemas e temas relacionados. <br>
-👯 Atualmente atuo como Analista RPA na Inove Telecom. <br> 
+### Olá, mundo! Eu sou Luiz Esquivel, Desenvolvedor RPA com 20 anos de idade, 5 anos de experiência e estudante UFES - Administração.  👋
+🌱 Estou constantemente estudando técnicas de análise de dados, processos empresarias e como automatizá-los mantendo eficiência organizacional. <br>
+👯 Atualmente atuo como Desenvolvedor RPA na Inove Telecom. <br> 
 😄 Pronomes: ele/dele. <br>
-⚡ Hobbies: programar, ler, projetar e escrever. <br>
-✍ Objetivo profissional: Analista Analista RPA e contribuir para um sistema mais eficiente e seguro na empresa em que atuo. <br>
-🎍 Principais conhecimentos: Tenho habilidades avançadas em Pacote Office e ferramentas modernas de BI (incluindo Power BI), conheço ferramentas de automação de processos (incluindo Linguagem M, data warehouse, OLAP e Macros da Microsoft), familiarizado com Banco de dados (especialmente SQL e SQL Server), proficiente em etapas e ferramentas de RPA, arquiteturas da internet (HTTP e Cliente-Servidor); desenvolvimento WEB (HTML5, CSS3, JavaScript, NodeJS e PHP). <br>
-🏆 Principais experiências: Trabalhei como WEB Developer no Impacta Jovem Brasil, Estagiário de TI na Inove Telecom, Analista de Desenvolvimento de Sistemas na Inove Telecom, WEB Developer no Projeto GoBig e como trainee na InfoJr.
+⚡ Hobbies: projetar, escrever e passar tempo. <br>
+✍ Objetivo profissional: Desenvolvedor RPA Sêncior e contribuir para um eficiência organizacional plena de empresas que tenham valores semelhantes a minha forma de enxergar o mundo. <br>
+🎍 Principais conhecimentos: habilidades avançadas em Pacote Office, ferramentas modernas de BI (incluindo Power BI) e automação de processos (incluindo Linguagem M, AutomationAnywhere, BotCity e Python), familiarizado com Banco de dados (especialmente SQL e MySQL). <br>
+🏆 Principais experiências: Trabalhei como WEB Developer no Impacta Jovem Brasil, Estagiário de TI na Inove Telecom, Desenvolvedor de RPA na Inove Telecom, WEB Developer no Projeto GoBig e como trainee na InfoJr.
 😫 Atualmente estou ocupado com minhas responsabilidades na Inove Telecom e meus estudos na UFES - Administração.
 
 ## MEU PORTIFOLIO:
@@ -44,15 +44,15 @@
 
 ![Banner](bannerEN.png)
 
-### Hello, world! I'm Luiz Esquivel, a 20-year-old Systems Development Analyst. 👋
-🌱 I'm constantly studying data analysis techniques, system development processes, system testing processes, and related topics. <br>
-👯 Currently, I work as a Systems Development Analyst at Inove Telecom. <br>
+### Hello, world! I'm Luiz Esquivel, a 20-year-old RPA Developer with 5 years of experience, currently studying Administration at UFES. 👋
+🌱 I am constantly studying data analysis techniques, business processes, and how to automate them while maintaining organizational efficiency. <br>
+👯 I am currently working as an RPA Developer at Inove Telecom. <br>
 😄 Pronouns: he/him. <br>
-⚡ Hobbies: programming, reading, designing, and writing. <br>
-✍ Career objective: Become a senior Systems Development Analyst and contribute to a more efficient and secure system in the company I work for. <br>
-🎍 Key skills: I have advanced skills in the Microsoft Office Suite and modern BI tools (including Power BI). I am familiar with process automation tools (including Microsoft's M Language, data warehouses, OLAP, and Macros), knowledgeable in databases (especially SQL and SQL Server), familiar with internet architectures (HTTP and Client-Server), and experienced in web development (HTML5, CSS3, JavaScript, NodeJS, and PHP). <br>
-🏆 Key experiences: I have worked as a WEB Developer at Impacta Jovem Brasil, IT Intern at Inove Telecom, Systems Development Analyst at Inove Telecom, WEB Developer at Projeto GoBig, and as a trainee at InfoJr.
-😫 Currently, I am busy with my responsibilities at Inove Telecom and my professional development studies.
+⚡ Hobbies: designing, writing, and spending time. <br>
+✍ Professional objective: Senior RPA Developer and contribute to the full organizational efficiency of companies that share similar values with my worldview. <br>
+🎍 Key skills: advanced proficiency in the Microsoft Office suite, modern BI tools (including Power BI), and process automation (including M Language, AutomationAnywhere, BotCity, and Python). Familiar with databases, especially SQL and MySQL. <br>
+🏆 Key experiences: Worked as a WEB Developer at Impacta Jovem Brasil, IT Intern at Inove Telecom, RPA Developer at Inove Telecom, WEB Developer at Project GoBig, and as a trainee at InfoJr.
+😫 Currently busy with my responsibilities at Inove Telecom and my studies at UFES - Administration.
 
 
 ## MY PORTFOLIO:
