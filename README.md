@@ -1,14 +1,22 @@
 ![Banner](luiz.png)
 
-### Olá, mundo! Eu sou Luiz Esquivel, Desenvolvedor RPA com 21 anos de idade, 5 anos de experiência e estudante UFES - Administração.  👋
-🌱 Estou constantemente estudando técnicas de processos empresarias e como automatizá-los mantendo eficiência organizacional, assim como processos e ferramentas de Bussiness Inteligence (essencialmente PowerBI). <br>
-👯 Atualmente atuo como Desenvolvedor RPA na Invertus. <br> 
+### Olá, mundo! Eu sou Luiz Esquivel, profissional com 22 anos de idade, 5 anos de experiência na área de tecnologia, 7 anos de estudo em tecnologia, amante da interdisciplinaridade e estudante UFES - Administração.  👋
+
+🌱 Estou constantemente estudando técnicas de processos empresarias e como automatizá-los mantendo eficiência organizacional, assim como processos e ferramentas de Bussiness Inteligence (essencialmente PowerBI). O objetivo é conseguir performar tecnologicamente as empresas, com intuito de mesclar desenvolvimento sustentável, alcance de métricas organizacionais e gestão de pessoas. <br>
+
+👯 Atualmente atuo como Diretor de Operações na Tech Track Soluções. <br> 
+
 😄 Pronomes: ele/dele. <br>
-⚡ Hobbies: projetar, escrever e passar tempo com pessoas que importam pra mim. <br>
-✍ Objetivo profissional: Desenvolvedor RPA Sênior e contribuir para um eficiência organizacional plena de empresas que tenham valores semelhantes a minha forma de enxergar o mundo. <br>
-🎍 Principais conhecimentos: habilidades avançadas em Pacote Office, ferramentas modernas de BI (incluindo Power BI) e automação de processos (incluindo Linguagem M, AutomationAnywhere, BotCity e Python), familiarizado com Banco de dados (especialmente SQL e MySQL). <br>
-🏆 Principais experiências: Trabalhei como WEB Developer no Impacta Jovem Brasil, Estagiário de TI e Analista de Desenvolvimento de Sistemas na Inove Telecom, Desenvolvedor de RPA na Invertus, WEB Developer no Projeto GoBig e como trainee na InfoJr.
-😫 Atualmente estou ocupado com minhas responsabilidades na Invertus e meus estudos na UFES - Administração.
+
+⚡ Hobbies: projetar, escrever, praticar esportes como basquete e passar tempo com pessoas que importam pra mim. <br>
+
+✍ Objetivo profissional: Contribuir para a eficiência organizacional plena de empresas, alinhamento objetivos, pessoas e empresas. <br>
+
+🎍 Principais conhecimentos: habilidades avançadas em Pacote Office, ferramentas modernas de BI (incluindo Power BI), desenvolvimento de WebApp (HTML; CSS; JS; FLASK) e automação de processos (incluindo Linguagem M, AutomationAnywhere, BotCity e Python), familiarizado com Banco de dados (especialmente SQL e MySQL) e construção/consumo de APIs (RESTFULL). <br>
+
+🏆 Principais experiências: Trabalhei como Jovem Aprendiz no Banco Itaú; Estagiário e Assistente TI na Cogna; Estagiário e Desenvolvedor Jr na InfoX; Estagiário, Assistente, Desenvolvedor e Gerente na Inove/Invertus.
+
+😫 Atualmente estou ocupado com minhas responsabilidades na TT Soluções e meus estudos na UFES - Administração.
 
 ## MEU PORTIFOLIO:
 - [LUIZ ESQUIVEL](https://luizesquivel05.github.io/portfolioLUIZESQUIVEL/).
@@ -44,15 +52,23 @@
 
 ![Banner](bannerEN.png)
 
-### Hello World! I am Luiz Esquivel, RPA Developer with 21 years of age, 5 years of experience and UFES - Administration student. 👋
-🌱 I am constantly studying business process techniques and how to automate them while maintaining organizational efficiency, as well as Business Intelligence processes and tools (essentially PowerBI). <br>
-👯 I currently work as an RPA Developer at Invertus. <br>
+### Hello, world! I am Luiz Esquivel, a 22-year-old professional with 5 years of experience in the technology area, 7 years of studying technology, a lover of interdisciplinarity and a student at UFES - Administration. 👋
+
+🌱 I am constantly studying business process techniques and how to automate them while maintaining organizational efficiency, as well as Business Intelligence processes and tools (essentially PowerBI). The goal is to achieve technological performance in companies, with the aim of combining sustainable development, achieving organizational metrics and people management. <br>
+
+👯 I currently work as Operations Director at Tech Track Soluções. <br>
+
 😄 Pronouns: he/him. <br>
-⚡ Hobbies: designing, writing and spending time with people who matter to me. <br>
-✍ Professional objective: Senior RPA Developer and contribute to full organizational efficiency in companies that have values ​​similar to my way of seeing the world. <br>
-🎍 Main knowledge: advanced skills in Office Package, modern BI tools (including Power BI) and process automation (including M Language, AutomationAnywhere, BotCity and Python), familiar with Databases (especially SQL and MySQL). <br>
-🏆 Main experiences: I worked as a WEB Developer at Impacta Jovem Brasil, IT Intern and Systems Development Analyst at Inove Telecom, RPA Developer at Invertus, WEB Developer at Project GoBig and as a trainee at InfoJr.
-😫 I'm currently busy with my responsibilities at Invertus and my studies at UFES - Administration.
+
+⚡ Hobbies: designing, writing, playing sports like basketball and spending time with people who matter to me. <br>
+
+✍ Professional objective: Contribute to the full organizational efficiency of companies, aligning objectives, people and companies.  <br>
+
+🎍 Main knowledge: advanced skills in Office Suite, modern BI tools (including Power BI), WebApp development (HTML; CSS; JS; FLASK) and process automation (including M Language, AutomationAnywhere, BotCity and Python), familiar with Databases (especially SQL and MySQL) and building/consuming APIs (RESTFULL). <br>
+
+🏆 Main experiences: I worked as a Young Apprentice at Banco Itaú; Intern and IT Assistant at Cogna; Intern and Jr Developer at InfoX; Intern, Assistant, Developer and Manager at Inove/Invertus.
+
+😫 I am currently busy with my responsibilities at TT Soluções and my studies at UFES - Administration.
 
 
 ## MY PORTFOLIO:
